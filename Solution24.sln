@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryApp", "GeometryApp\GeometryApp.csproj", "{14BF3494-ED23-4ABE-ACAF-ACBDE27F5040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{D847A844-C754-43D4-99FF-39C895DF5301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{4C8A1E3C-F7BF-491A-A571-05318EFDBA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14BF3494-ED23-4ABE-ACAF-ACBDE27F5040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BF3494-ED23-4ABE-ACAF-ACBDE27F5040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BF3494-ED23-4ABE-ACAF-ACBDE27F5040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BF3494-ED23-4ABE-ACAF-ACBDE27F5040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D847A844-C754-43D4-99FF-39C895DF5301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D847A844-C754-43D4-99FF-39C895DF5301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D847A844-C754-43D4-99FF-39C895DF5301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D847A844-C754-43D4-99FF-39C895DF5301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8A1E3C-F7BF-491A-A571-05318EFDBA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8A1E3C-F7BF-491A-A571-05318EFDBA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8A1E3C-F7BF-491A-A571-05318EFDBA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8A1E3C-F7BF-491A-A571-05318EFDBA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F87CF3-C7F3-490A-9AFD-8A9E53EBB2E9}
+	EndGlobalSection
+EndGlobal
